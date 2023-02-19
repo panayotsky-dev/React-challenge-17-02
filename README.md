@@ -1,5 +1,5 @@
 # this project is already build on https://react-17-02.vercel.app
-# Project was created in competition for points 
+## Project was created in competition for points in learning platform ( react track)
 #I've added 2 more hover effects using framer-motion library than the description.
 ![fdly](https://user-images.githubusercontent.com/122404168/219978502-5c867137-fec6-4033-9804-0fe54a2cfb11.PNG)
 ![foodlyDesign](https://user-images.githubusercontent.com/122404168/219978520-dbf3b8ac-7655-4984-ac7e-9fd15dc9b8e6.PNG)
